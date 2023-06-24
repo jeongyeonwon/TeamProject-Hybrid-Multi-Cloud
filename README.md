@@ -29,6 +29,8 @@ AWS와 MS Azure로 구현되는 Hybrid Multi-Cloud, 4인 팀 프로젝트. (2023
 
 ## GitHub.com/jeongyeonwon93
 ---
+:100: **전반적인 Terraform 코드화**
+
 🔑 **IAM 사용자 생성 및 MFA 할당**
 
 🌐 **온프레미스를 Site-to-Site VPN 연결 및 DMS 구현**
