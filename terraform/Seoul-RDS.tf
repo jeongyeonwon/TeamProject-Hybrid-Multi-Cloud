@@ -1,6 +1,6 @@
 # Seoul-RDS 파라미터 생성
 resource "aws_db_parameter_group" "fourdollar_mysql" {
-  name   = "fiveleader-mysql"
+  name   = "fourdollar-mysql"
   family = "mysql8.0"
 
   parameter {
